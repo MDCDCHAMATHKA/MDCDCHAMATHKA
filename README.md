@@ -1,6 +1,5 @@
-- **👋 Hi, I’m Durangi chamathka**
-- 👀 
-- **Management Information Systems Undergraduate at NSBM Green University🌱 **
+- **Hi,👋I’m Durangi chamathka**
+- **Management Information Systems Undergraduate at NSBM Green University🌱**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

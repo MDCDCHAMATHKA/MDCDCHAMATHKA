@@ -1,7 +1,7 @@
 - Hi,👋I’m Durangi chamathka
-- Management Information Systems Undergraduate at NSBM Green University🌱
-- 💞️ I’m looking to collaborate on ...
+- Management Information Systems Undergraduate at NSBM Green University 
 - 📫 you can reach from chanididurangi@gmail.com
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c)](https://skills.thijs.gg)
 
 <!---

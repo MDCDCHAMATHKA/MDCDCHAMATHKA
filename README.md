@@ -2,6 +2,7 @@
 - Management Information Systems Undergraduate at NSBM Green University🌱
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach from chanididurangi@gmail.com
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c)](https://skills.thijs.gg)
 
 <!---
 MDCDCHAMATHKA/MDCDCHAMATHKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

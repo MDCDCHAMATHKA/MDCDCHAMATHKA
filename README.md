@@ -1,7 +1,7 @@
 - Hi,👋I’m Durangi chamathka
 - Management Information Systems Undergraduate at NSBM Green University🌱
 - 📫 you can reach from chanididurangi@gmail.com
-- My skills
+- I am skilled in
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,c,py,mysql)](https://skills.thijs.gg)
 
